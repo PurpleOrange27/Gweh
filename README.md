@@ -22,8 +22,7 @@ p<div align="center">
   
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/PurpleOrange27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME-KAMU&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFueDVvYXpxODM0bmF3b2V0ZjI5ZW5qNTJsMXozZzBncXR1Zzc4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yMMJB4678mvyq3b4d2/giphy.gif"  />
 
   <br/><br/>
 
