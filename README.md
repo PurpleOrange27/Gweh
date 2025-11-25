@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJidWZtNHp1c3F1YTB5OGE1amxub3Zkejg1NGV0cXJveG5rMDcyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/In0Lpu4FVivjISX9HT/giphy.gif" width="30px">
   <h1>Hi, I'm Muhammad Rizki Rusdiaputra</h1>
   
   <a href="https://git.io/typing-svg">
