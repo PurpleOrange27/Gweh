@@ -27,11 +27,12 @@
       </p>
     </td>
     <td valign="center" width="40%">
-      <div align="center">
+    
+   <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=USERNAME-KAMU&show_icons=true&theme=radical&hide_border=true" width="100%"/>
         <br/><br/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME-KAMU&layout=compact&theme=radical&hide_border=true" width="100%"/>
-      </div>
+   </div>
     </td>
   </tr>
 </table>
