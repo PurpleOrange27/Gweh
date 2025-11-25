@@ -18,7 +18,7 @@ p<div align="center">
   <br/>
 
   <h3>💻 Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,py,pr,ai,ae,github,git,flutter&perline=3" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,py,pr,ai,ae,github,git,flutter&perline=5" />
   
   <br/><br/>
 
