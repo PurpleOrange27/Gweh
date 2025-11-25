@@ -18,7 +18,7 @@
   <br/>
 
   <h3>💻 Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,react,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,wasm" />
   
   <br/><br/>
 
