@@ -19,15 +19,13 @@
         <li>📫 <b>Kontak:</b> <a href="mailto:email@kamu.com">email@kamu.com</a></li>
         <li>⚡ <b>Fun Fact:</b> [Fakta unik, misal: Saya bisa coding 12 jam tanpa kopi!]</li>
       </ul>
-      
-      <h2>🚀 Hobi & Minat</h2>
+          <h2>🚀 Hobi & Minat</h2>
       <p>
         Selain ngoding, saya juga suka:
         <br>
         🎮 Bermain Game Strategy &nbsp; | &nbsp; 📚 Membaca Buku Sci-Fi &nbsp; | &nbsp; ☕ Hunting Kopi
       </p>
     </td>
-    
     <td valign="center" width="40%">
       <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=USERNAME-KAMU&show_icons=true&theme=radical&hide_border=true" width="100%"/>
