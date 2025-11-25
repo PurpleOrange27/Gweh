@@ -4,7 +4,7 @@
   <h1>Hi, I'm Muhammad Rizki Rusdiaputra</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3591F7&center=true&vCenter=true&width=435&lines=Junior+Developer;Hobby+Gamer;Coffee+Lover;Umur+[XX]+Tahun" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3591F7&center=true&vCenter=true&width=435&lines=Junior+Developer+Pemalaz;Hobby+Gamer;Coffee+Lover;Umur+[20]+Tahun" alt="Typing SVG" />
   </a>
 
   <br/><br/>
