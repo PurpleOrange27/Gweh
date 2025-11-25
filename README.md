@@ -1,4 +1,4 @@
-<div align="center">
+p<div align="center">
 
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJidWZtNHp1c3F1YTB5OGE1amxub3Zkejg1NGV0cXJveG5rMDcyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/In0Lpu4FVivjISX9HT/giphy.gif" width="150px">
   <h1>Hi, I'm Muhammad Rizki Rusdiaputra</h1>
@@ -18,7 +18,7 @@
   <br/>
 
   <h3>💻 Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,html,py,pr,ai," />
+  <img src="https://skillicons.dev/icons?i=vscode,html,py,pr,ai,github," />
   
   <br/><br/>
 
