@@ -1,62 +1,37 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-  <h1>Hi there, I'm <a href="https://github.com/USERNAME-KAMU">Nama Kamu</a>! 👋</h1>
-  <h3>Seorang Developer yang menyukai [Hobi/Minat Utama]</h3>
-</div>
 
-<hr/>
-
-<table>
-  <tr>
-  <td valign="center" width="60%">
-      <h2>👨‍💻 Tentang Saya</h2>
-      <ul>
-        <li>📍 <b>Asal:</b> [Kota/Negara Kamu]</li>
-        <li>🎂 <b>Umur:</b> [Umur] tahun</li>
-        <li>🎓 <b>Pendidikan:</b> [Jurusan/Kampus/Sekolah]</li>
-        <li>💼 <b>Saat ini:</b> Sedang belajar tentang [Teknologi yang dipelajari]</li>
-        <li>💬 <b>Diskusi:</b> Tanya saya tentang [Topik Keahlian]</li>
-        <li>📫 <b>Kontak:</b> <a href="mailto:email@kamu.com">email@kamu.com</a></li>
-        <li>⚡ <b>Fun Fact:</b> [Fakta unik, misal: Saya bisa coding 12 jam tanpa kopi!]</li>
-      </ul>
-    <h2>🚀 Hobi & Minat</h2>
-      <p>
-        Selain ngoding, saya juga suka:
-        <br>
-        🎮 Bermain Game Strategy &nbsp; | &nbsp; 📚 Membaca Buku Sci-Fi &nbsp; | &nbsp; ☕ Hunting Kopi
-      </p>
-    </td>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=USERNAME-KAMU&show_icons=true&theme=radical&hide_border=true" width="100%"/>
-        <br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME-KAMU&layout=compact&theme=radical&hide_border=true" width="100%"/>
-      </div>
-  </tr>
-</table>
-
-<div align="center">
-  <h2>🛠️ Tech Stack & Tools</h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <h1>Hi, I'm [Nama Kamu]</h1>
   
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3591F7&center=true&vCenter=true&width=435&lines=Junior+Developer;Hobby+Gamer;Coffee+Lover;Umur+[XX]+Tahun" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <p>
+    Saya berasal dari <b>[Kota]</b>. Saat ini saya berumur <b>[XX] tahun</b>.<br>
+    Saya memiliki ketertarikan besar di dunia teknologi, khususnya <b>[Bidang Minat]</b>.<br>
+    Di waktu luang, saya suka <b>[Sebutkan Hobi 1]</b> dan <b>[Sebutkan Hobi 2]</b>.
+  </p>
+
+  <br/>
+
+  <h3>💻 Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,react,vscode,git" />
   
   <br/><br/>
-  
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
 
-<hr/>
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME-KAMU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME-KAMU&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
 
-<div align="center">
-  <h3>Connect with me:</h3>
-  <a href="https://instagram.com/USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <br/><br/>
+
+  <a href="mailto:EMAIL@KAMU.COM">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
 </div>
