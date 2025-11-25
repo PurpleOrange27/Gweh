@@ -1,7 +1,7 @@
 <div align="center">
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  <h1>Hi, I'm [Nama Kamu]</h1>
+  <h1>Hi, I'm Muhammad Rizki Rusdiaputra</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3591F7&center=true&vCenter=true&width=435&lines=Junior+Developer;Hobby+Gamer;Coffee+Lover;Umur+[XX]+Tahun" alt="Typing SVG" />
@@ -10,9 +10,9 @@
   <br/><br/>
 
   <p>
-    Saya berasal dari <b>[Kota]</b>. Saat ini saya berumur <b>[XX] tahun</b>.<br>
-    Saya memiliki ketertarikan besar di dunia teknologi, khususnya <b>[Bidang Minat]</b>.<br>
-    Di waktu luang, saya suka <b>[Sebutkan Hobi 1]</b> dan <b>[Sebutkan Hobi 2]</b>.
+    Saya berasal dari <b>Jakarta Selatan</b>. Saat ini saya berumur <b>20 tahun</b>.<br>
+    Saya memiliki ketertarikan besar di dunia teknologi, khususnya <b>Game & Desain</b>.<br>
+    Di waktu luang, saya suka <b>Bermain Game</b> dan <b>Editing Video untuk konten</b>.
   </p>
 
   <br/>
